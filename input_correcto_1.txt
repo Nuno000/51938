@@ -1,0 +1,6 @@
+let edad = 20;
+if (edad >= 18) {
+  console.log("Mayor_de_edad");
+} else {
+  console.log("Menor_de_edad");
+}
